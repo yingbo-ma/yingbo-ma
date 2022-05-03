@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>Welcome to My Git Repos!</h3>
+<p>I hope my codes can make this world better.</p>
+
+<p>Here is the link to my CV</p>
+https://drive.google.com/file/d/1UxPaC2DrbtzqFqmNhsg8jq856vL6oc3q/view?usp=sharing
