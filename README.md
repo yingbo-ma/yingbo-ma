@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Welcome to My Git Repos!</h3>
-<p>I hope my codes can make this world better.</p>
+<h3>Welcome to Yingbo Ma's Git Repos!</h3>
+<p>He hopes his work could make this world a little better.</p>
 
-<h3>Here is the link to my CV</h3>
-https://drive.google.com/file/d/1UxPaC2DrbtzqFqmNhsg8jq856vL6oc3q/view?usp=sharing
+Here is the link to his [CV](https://drive.google.com/file/d/1UxPaC2DrbtzqFqmNhsg8jq856vL6oc3q/view?usp=sharing)
 
-<h3>Some conference presentations from me...</h3>
+Some conference presentations from him...
 **AIED 2021**: Ma, Yingbo, et al. "*[The Challenge of Noisy Classrooms: Speaker Detection During Elementary Students’ Collaborative Dialogue](https://link.springer.com/chapter/10.1007/978-3-030-78292-4_22)*" -- [Presentation Slides](https://drive.google.com/file/d/17ilvk-id76dos8SIWnps61NfqVI5G4vp/view?usp=sharing)
 
 **SIGCSE 2022**: Ma, Yingbo, et al. "*[It’s Challenging but Doable: Lessons Learned from a Remote Collaborative Coding Camp for Elementary Students](https://dl.acm.org/doi/10.1145/3478431.3499327)*" -- [Presentation Slides](https://drive.google.com/file/d/18ub3bT1-hompuR1AUUeZWDNB7GQAPAuR/view?usp=sharing)
