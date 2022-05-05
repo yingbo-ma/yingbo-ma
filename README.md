@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 Here is the link to his [CV](https://drive.google.com/file/d/1UxPaC2DrbtzqFqmNhsg8jq856vL6oc3q/view?usp=sharing)
 
-<br />
 Some **conference** publications from him... <br />
 1. **EDM 2022**: Ma, Yingbo, et al. "*[Investigating Multimodal Predictors of Peer Satisfaction for Collaborative Coding in Middle School]()*" -- Presentation Slides (coming soon)
 
@@ -30,6 +29,5 @@ Some **conference** publications from him... <br />
 
 4. **AIED 2021**: Ma, Yingbo, et al. "*[The Challenge of Noisy Classrooms: Speaker Detection During Elementary Students’ Collaborative Dialogue](https://link.springer.com/chapter/10.1007/978-3-030-78292-4_22)*" -- [Presentation Slides](https://drive.google.com/file/d/17ilvk-id76dos8SIWnps61NfqVI5G4vp/view?usp=sharing)
 
-<br />
 Some **journal** publications from him... <br />
 1. **International Journal of Emerging Technologies in Learning (iJET)**: Feijoo-Garcia, Pedro, et al. "*[Write2Code: Pen-Based Educational Tool for Java](https://www.learntechlib.org/p/219020/)*"
