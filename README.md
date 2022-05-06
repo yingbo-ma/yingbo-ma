@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 # Welcome to Yingbo Ma's Git Repos!
 He hopes his work could make this world a little better.
 
-## ![This is Yingbo](/profiles/yingbo's%20twin%20brother.png)
-
 Here is the link to his [CV](https://drive.google.com/file/d/1UxPaC2DrbtzqFqmNhsg8jq856vL6oc3q/view?usp=sharing)
 
 Some **conference** publications from him... <br /> <br />
