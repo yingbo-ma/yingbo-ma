@@ -30,3 +30,4 @@ Some **conference** publications from him... <br /> <br />
 **EDM 2022**: Ma, Yingbo, et al. "*[Investigating Multimodal Predictors of Peer Satisfaction for Collaborative Coding in Middle School]()*" -- Presentation Slides (coming soon)
 
 Some **journal** publications from him... <br /> <br />
+1. **International Journal of Emerging Technologies in Learning (iJET)**: Feijoo-Garcia, Pedro, et al. "*[Write2Code: Pen-Based Educational Tool for Java](https://www.learntechlib.org/p/219020/)*"
