@@ -21,7 +21,7 @@ He hopes his work could make this world a little better.
 ### Here is the link to his [CV](https://drive.google.com/file/d/1UxPaC2DrbtzqFqmNhsg8jq856vL6oc3q/view?usp=sharing)
 
 ### Some **conference** publications from him... <br />
-1. **EDM 2022**: Ma, Yingbo, et al. "*[Investigating Multimodal Predictors of Peer Satisfaction for Collaborative Coding in Middle School]()*" -- Presentation Slides (coming soon)
+1. **EDM 2022**: Ma, Yingbo, et al. "*[Investigating Multimodal Predictors of Peer Satisfaction for Collaborative Coding in Middle School](http://ld-main-websiteapp.eba-hcpibxny.us-east-2.elasticbeanstalk.com/pdf/LearnDialogue-Ma-EDM-2022.pdf)*" -- Presentation Slides (coming soon)
 
 2. **LAK 2022**: Ma, Yingbo, et al. "*[Detecting Impasse During Collaborative Problem Solving with Multimodal Learning Analytics](https://dl.acm.org/doi/abs/10.1145/3506860.3506865)*" -- [Presentation Slides](https://drive.google.com/file/d/1Uf0sbgPHCBubvKTnteW9igOsdJukxjEa/view?usp=sharing)
 
